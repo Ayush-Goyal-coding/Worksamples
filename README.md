@@ -14,6 +14,7 @@ Enabling installation of third party apps on an Android™-based smartphone:
 2. Tap on the “Security” option.
 3. Tick the checkbox next to the “Unknown Sources” option.
 4. Confirm the warning message by tapping on “OK”
+
 Video link for the same-
 https://www.youtube.com/watch?v=Ru32HUHRCAg
 
